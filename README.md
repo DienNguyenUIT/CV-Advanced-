@@ -1,1 +1,3 @@
-CV (Advanced)
+**DIAGNOSING APPLE TREE'S DISEASE BASED ON APPLE LEAVES IMAGES (PYTHON)**
+
+![image](https://user-images.githubusercontent.com/66774748/154064204-aafebb8e-5567-45c1-a44a-574268582d60.png)
